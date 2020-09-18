@@ -1,0 +1,41 @@
+#question-1{
+    background-color: blueviolet;
+    margin: 1px auto;
+    padding: 2px;
+    width: 1000px;
+    text-align: center;
+}
+#question-2{
+    background-color: chartreuse;
+    margin: 1px auto;
+    padding: 2px;
+    width: 1000px;
+    text-align: center;
+}
+#question-3{
+    background-color: coral;
+    margin: 1px auto;
+    padding: 2px;
+    width: 1000px;
+    text-align: center;
+}
+#question-4{
+    background-color: crimson;
+    margin: 1px auto;
+    padding: 2px;
+    width: 1000px;
+    text-align: center;
+}
+
+h1, p{
+    margin-left: 15x;
+    padding-left: 15px;
+}
+
+h2{
+    text-align: center;
+}
+button{
+    margin: 3px;
+    padding: 3px;
+}
