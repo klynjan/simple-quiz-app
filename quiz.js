@@ -79,7 +79,7 @@ button.addEventListener('click', () => {
     else{
         span.innerHTML = "0%"
     }
-    correctAnswers.innerHTML = `<li>Your correct answers were: ${correct.join(' - ')}`;
+    correctAnswers.innerHTML = `Your correct answers were: ${correct.join(' - ')}`;
 })
 
 
